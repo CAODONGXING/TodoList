@@ -26,10 +26,10 @@
 
 > 未完成事项
 
-![](https://github.com/CAODONGXING/TododoList/blob/master/MainActivity3.jpg)
+![](https://github.com/CAODONGXING/TododoList/blob/master/MainActivity3.JPG)
 
 > 已完成事项
 
-![](https://github.com/CAODONGXING/TododoList/blob/master/AlarmReceiver.jpg)
+![](https://github.com/CAODONGXING/TododoList/blob/master/AlarmReceiver.JPG)
 
 > 事项提醒通知
