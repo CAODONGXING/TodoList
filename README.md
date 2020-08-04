@@ -17,17 +17,18 @@
 
 ### Screenshot
 
-> 主UI
 ![](https://github.com/CAODONGXING/TododoList/blob/master/ui.jpg)
 
+> 主UI
 
-> 未完成事项
 ![](https://github.com/CAODONGXING/TododoList/blob/master/MainActivity2.jpg)
 
+> 未完成事项
 
-> 已完成事项
 ![](https://github.com/CAODONGXING/TododoList/blob/master/MainActivity3.JPG)
 
+> 已完成事项
+
+![](https://github.com/CAODONGXING/TododoList/blob/master/AlarmReceiver.JPG)
 
 > 事项提醒通知
-![](https://github.com/CAODONGXING/TododoList/blob/master/AlarmReceiver.JPG)
